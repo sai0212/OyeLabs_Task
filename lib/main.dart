@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
       ),
       home: //Splash()
           AnimatedSplashScreen(
-        nextScreen: LoginPage(),
+        nextScreen: LoginScreen(),
         splash: 'assets/elssa_logo.png',
         splashIconSize: 600,
         splashTransition: SplashTransition.fadeTransition,
