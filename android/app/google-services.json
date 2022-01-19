@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "249712787211",
+    "project_id": "oyelabs-68fad",
+    "storage_bucket": "oyelabs-68fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249712787211:android:f37e1d0fe2ccc72259ac0e",
+        "android_client_info": {
+          "package_name": "com.example.oyelabs_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249712787211-ok4tqtp9nla9htb4jetl610sft1hfqfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oyelabs_task",
+            "certificate_hash": "4c744f7f7a351e755e716f2d741c44c393112259"
+          }
+        },
+        {
+          "client_id": "249712787211-l5b0qo0lhs4eu05qdarg9lgfnls2oo7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCra6xNB1pLn0fJP3Gc4nFu8DKUjnGqUA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249712787211-l5b0qo0lhs4eu05qdarg9lgfnls2oo7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
